@@ -2,6 +2,7 @@ Code for NIPS2021 Paper "Instance-dependent Label-noise Learning under a Structu
 
 Code taken from "https://github.com/a5507203/IDLN" with few changes. 
 
+Directly run the jupyter-notebook
 
 ## Results
 
